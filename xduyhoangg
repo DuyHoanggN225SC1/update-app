@@ -1,9 +1,9 @@
 {
   "credit": "MR. NoOB",
   "show_dialog": true,
-  "title": "🚀 Update Available",
-  "subtitle": "✨ New Version Release ✨",
-  "whatsnew": "• Improved app performance\n• Fixed major bugs\n• Enhanced security layers\n• Polished UI with smooth animations ",
+  "title": "🚀 Có Bản Cập Nhật Mới",
+  "subtitle": "✨ Bản Cập Nhật 2.2 ✨",
+  "whatsnew": "• Cải Thiện Hiệu Năng App\n• Thêm Hiển Thị Dialog Mất Mạng",
   "btn_update": "Update Now",
   "btn_exit": "Exit",
   "link": "https://t.me/EpicModsChannel"
