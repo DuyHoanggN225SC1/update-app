@@ -1,11 +1,11 @@
 {
   "ShowDate": "6/1/25",
   "Title": "Update Available",
-  "Subtitle": "v2.2 • Vá Lỗi",
+  "Subtitle": "v2.2 • Patched Fixed",
   "WhatsNew": "• Update Máy Chủ Bypass\n• Sửa Lỗi Vấn Đề Load Chậm\n• Thêm Hòm Thư Thông Báo\n• Thêm Thông Báo Khi Mất Mạng",
   "Button1": "Update",
   "Button1Url": "https://t.me/dp_mods",
-  "2Button": true,
+  "2Button": false,
   "ShowTimer": true,
   "TargetTime": "2026-01-6 18:00:00"
 }
