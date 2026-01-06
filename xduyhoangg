@@ -1,13 +1,16 @@
 {
-  "Version": "2.2",
-  "Title": "UPDATE AVAILABLE",
-  "Subtitle": "New Version 2.2",
-  "Features": "Cập Nhật Hệ Thống Bypass ,Cải Thiện Hiệu Suất",
-  "Description": "Đây là một phiên bản v2.2 khác với bản v2.1 là cập nhật máy chủ Bypass UID đặt tại VN , giúp giảm tình trạng giật lag",
-  "BtnLater": "LATER",
-  "BtnUpdate": "UPDATE",
-  "Url": "https://dpmods.com",
-  "ForceUpdate": false,
-  "Reminder": "2h",      
-  "BtnTimer": 0         
+  "showDialog": true,
+  "appVersionCode": 1,
+  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
+  "updateButtonText": "Update",
+  "updateButtonLink": "https://google.com",
+  "updateButtonGradientStartColor": "#1E88E5",
+  "updateButtonGradientEndColor": "#64B5F6",
+  "cancelButtonText": "Cancel",
+  "cancelClosesApp": true,
+  "cancelButtonGradientStartColor": "#1E88E5",
+  "cancelButtonGradientEndColor": "#64B5F6",
+  "textGradientStartColor": "#1E88E5",
+  "textGradientEndColor": "#64B5F6",
+  "dialogBackgroundColor": "#FFFFFF"
 }
