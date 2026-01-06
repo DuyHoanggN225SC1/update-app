@@ -1,10 +1,11 @@
 {
-  "credit": "MR. NoOB",
-  "show_dialog": true,
-  "title": "🚀 Có Bản Cập Nhật Mới",
-  "subtitle": "✨ Bản Cập Nhật 2.2 ✨",
-  "whatsnew": "• Cải Thiện Hiệu Năng App\n• Thêm Hiển Thị Dialog Mất Mạng",
-  "btn_update": "Update Now",
-  "btn_exit": "Exit",
-  "link": "https://t.me/EpicModsChannel"
+  "ShowDate": "6/1/25",
+  "Title": "Update Available",
+  "Subtitle": "v2.2 • Vá Lỗi",
+  "WhatsNew": "• Update Máy Chủ Bypass\n• Sửa Lỗi Vấn Đề Load Chậm\n• Thêm Hòm Thư Thông Báo\n• Thêm Thông Báo Khi Mất Mạng",
+  "Button1": "Update",
+  "Button1Url": "https://t.me/dp_mods",
+  "2Button": true,
+  "ShowTimer": true,
+  "TargetTime": "2026-01-6 18:00:00"
 }
