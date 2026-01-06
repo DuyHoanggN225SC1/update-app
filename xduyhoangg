@@ -5,7 +5,7 @@
   "WhatsNew": "• Update Máy Chủ Bypass\n• Sửa Lỗi Vấn Đề Load Chậm\n• Thêm Hòm Thư Thông Báo\n• Thêm Thông Báo Khi Mất Mạng",
   "Button1": "Update",
   "Button1Url": "https://t.me/dp_mods",
-  "2Button": false,
+  "2Button": true,
   "ShowTimer": true,
   "TargetTime": "2026-01-6 18:00:00"
 }
